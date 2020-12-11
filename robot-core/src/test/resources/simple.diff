@@ -1,0 +1,4 @@
+0 axioms in left ontology but not in right ontology:
+
+1 axioms in right ontology but not in left ontology:
++ SubClassOf(<https://github.com/ontodev/robot/robot-core/src/test/resources/simple.owl#test1>[Test 1] <owl:Thing>)
